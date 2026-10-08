@@ -1,0 +1,7 @@
+interface:
+  display_name: "LLM Cost Watch"
+  short_description: "Track API spend and review model changes"
+  default_prompt: "Use $llm-cost-watch to set up recurring API cost monitoring for my project, then recommend model changes for my approval."
+
+policy:
+  allow_implicit_invocation: true
